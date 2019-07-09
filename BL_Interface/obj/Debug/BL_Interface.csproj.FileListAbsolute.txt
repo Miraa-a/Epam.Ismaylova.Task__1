@@ -1,0 +1,17 @@
+C:\Users\Эльмира\source\repos\Epam.Ismaylova.Task_1\BL_Interface\bin\Debug\BL_Interface.dll
+C:\Users\Эльмира\source\repos\Epam.Ismaylova.Task_1\BL_Interface\bin\Debug\BL_Interface.pdb
+C:\Users\Эльмира\source\repos\Epam.Ismaylova.Task_1\BL_Interface\bin\Debug\Entities.dll
+C:\Users\Эльмира\source\repos\Epam.Ismaylova.Task_1\BL_Interface\bin\Debug\Entities.pdb
+C:\Users\Эльмира\source\repos\Epam.Ismaylova.Task_1\BL_Interface\obj\Debug\BL_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Эльмира\source\repos\Epam.Ismaylova.Task_1\BL_Interface\obj\Debug\BL_Interface.csproj.CoreCompileInputs.cache
+C:\Users\Эльмира\source\repos\Epam.Ismaylova.Task_1\BL_Interface\obj\Debug\BL_Interface.dll
+C:\Users\Эльмира\source\repos\Epam.Ismaylova.Task_1\BL_Interface\obj\Debug\BL_Interface.pdb
+D:\SORT\Epam.Ismaylova.Task_1\BL_Interface\bin\Debug\BL_Interface.dll
+D:\SORT\Epam.Ismaylova.Task_1\BL_Interface\bin\Debug\BL_Interface.pdb
+D:\SORT\Epam.Ismaylova.Task_1\BL_Interface\bin\Debug\Entities.dll
+D:\SORT\Epam.Ismaylova.Task_1\BL_Interface\bin\Debug\Entities.pdb
+D:\SORT\Epam.Ismaylova.Task_1\BL_Interface\obj\Debug\BL_Interface.csprojAssemblyReference.cache
+D:\SORT\Epam.Ismaylova.Task_1\BL_Interface\obj\Debug\BL_Interface.csproj.CoreCompileInputs.cache
+D:\SORT\Epam.Ismaylova.Task_1\BL_Interface\obj\Debug\BL_Interface.csproj.CopyComplete
+D:\SORT\Epam.Ismaylova.Task_1\BL_Interface\obj\Debug\BL_Interface.dll
+D:\SORT\Epam.Ismaylova.Task_1\BL_Interface\obj\Debug\BL_Interface.pdb
